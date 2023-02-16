@@ -3,6 +3,7 @@ body {
   margin: 0px;
   background-image: url("https://images-ext-1.discordapp.net/external/TctAHMtgHdYKoH7Rc6tx3sgx3P1MAumFaR-f6Dkw2I4/%3Fixlib%3Drb-4.0.3%26ixid%3DMnwxMjA3fDB8MHxzZWFyY2h8M3x8Z3JhZGllbnQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D900%26q%3D60/https/images.unsplash.com/photo-1554034483-04fda0d3507b");
   background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 .local{
