@@ -1,0 +1,91 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.main{
+  margin: auto;
+  background-color: aquamarine;
+  justify-content: center;
+  align-items: center;
+}
+
+.boxtabbar{
+  background-color: rgb(255, 255, 255);
+  justify-content: center;
+  display: inline-blocks;
+  
+}
+
+.boxmenu{
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+}
+
+
+
+/* menu ใน Tabbar */
+.menu-item {
+    background-color: rgb(255, 255, 255);
+    color: #0045a4;
+    margin: 15px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 110%;
+    font-family: "Kanit", sans-serif;
+    position: relative;
+    left: 40%;
+    top: -45;
+    font-weight: 700;
+
+}
+
+/* ช่อง Search */
+.Search{
+    background-color: #fcfcfc;
+    position: relative;
+    top: -90px;
+    border: 4px solid #0045a4;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    left: 85%;
+    padding: 2px;
+    width: 200px;
+    height: 34px;
+    
+}
+
+/* เส้นใต้สีฟ้า */
+
+.blueline{
+  border: 2px solid #0045a4;
+  margin-left: 49%;
+  margin-right: 21%;
+  position: relative;
+  top: -95;
+  
+ 
+}
+
+/* รูป icon User */
+
+.userimage{
+  width: 40px;
+  border-radius: 30px;
+  position: relative;
+  left: 650px;
+  top: -30px;
+  
+
+}
+
+
+.logoimage{
+  width: 100px;
+  border-radius: 50px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
